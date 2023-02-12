@@ -1,3 +1,5 @@
+<html>
+<body>
 <?php
 
 $data_file = 'data.db';
@@ -75,3 +77,5 @@ function getLinkValue()
 }
 
 ?>
+</body>
+</html>

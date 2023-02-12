@@ -1,3 +1,5 @@
+<html>
+<body>
 <?php
     require_once 'functions.php';
     
@@ -50,3 +52,5 @@
     <input type="submit" value="Stop All Attacks">
 </form>
 </center>
+</body>
+</html>

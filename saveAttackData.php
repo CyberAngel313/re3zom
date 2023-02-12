@@ -1,3 +1,5 @@
+<html>
+<body>
 <?php
 require_once "functions.php";
 
@@ -13,3 +15,5 @@ if(isset($_POST['link']) and isset($_POST['iter'])) {
 header('location: index.php');
 
 ?>
+</body>
+</html>

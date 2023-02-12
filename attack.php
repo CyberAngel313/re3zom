@@ -1,3 +1,5 @@
+<html>
+<body>
 <?php
 
 require_once 'functions.php';
@@ -22,3 +24,5 @@ saveBotData($all_bot_data);
 echo getAttackValue();
 
 ?>
+</body>
+</html>
